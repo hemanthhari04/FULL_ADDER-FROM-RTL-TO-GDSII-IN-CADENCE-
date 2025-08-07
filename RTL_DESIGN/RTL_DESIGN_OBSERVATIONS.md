@@ -1,4 +1,4 @@
- General RTL Design Observations
+ *General RTL Design Observations*
 Correctness of Logic
 
 Logic equations and control signals are functionally correct as per the truth table or specification.
