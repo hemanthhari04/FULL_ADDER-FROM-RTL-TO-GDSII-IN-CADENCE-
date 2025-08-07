@@ -52,6 +52,7 @@ Port names are intuitive and follow common naming conventions.
 
 
 ** Suggestions (Optional Improvements)**
+
 Consider using a commented truth table in the code for documentation clarity.
 
 Use parameterization only if extending to multi-bit adders.
