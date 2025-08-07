@@ -29,7 +29,6 @@ No use of initial, always, or non-synthesizable constructs like $display.
 
 All outputs are driven by continuous assign statements; hence, no risk of unintended latches.
 
-<img width="1670" height="667" alt="Image" src="https://github.com/user-attachments/assets/cb20b9ea-a410-4435-ba02-5ad306462b90" />
 
  **Bit-Width Clarity**
 
@@ -51,9 +50,12 @@ Port names are intuitive and follow common naming conventions.
 
 
 
-** Suggestions (Optional Improvements)**
+**Suggestions (Optional Improvements)**
 
 Consider using a commented truth table in the code for documentation clarity.
 
 Use parameterization only if extending to multi-bit adders.
+
+
+<img width="1670" height="667" alt="Image" src="https://github.com/user-attachments/assets/cb20b9ea-a410-4435-ba02-5ad306462b90" />
 
