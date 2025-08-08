@@ -1,5 +1,3 @@
-**logical synthesis**
-
 **area report**
 <img width="859" height="346" alt="Image" src="https://github.com/user-attachments/assets/f7db9358-cc27-404f-9c34-e6af71d1c8fc" />
 
