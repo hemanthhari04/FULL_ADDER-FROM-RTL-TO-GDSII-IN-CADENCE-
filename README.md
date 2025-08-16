@@ -1,4 +1,4 @@
-# FULL_ADDER-FROM-RTL-TO-GDSII-IN-CADENCE-
+# FULL_ADDER-FROM-RTL-TO-GDSII-IN-CADENCE
 
 End-to-end implementation of a 1-bit Full Adder using Cadence tools. Covers RTL design in Verilog, synthesis with Genus, physical design with Innovus, and GDSII generation. Includes testbenches, reports, layout snapshots, and final GDSII output for ASIC tape-out.
 
