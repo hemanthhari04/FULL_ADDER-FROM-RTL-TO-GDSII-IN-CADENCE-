@@ -1,5 +1,7 @@
 **PLACEMENT**
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bb901b89-aada-40ee-aa5c-6fc08a6a9914" />
+
 Placement is a crucial stage in the physical design of an integrated circuit where all standard cells (logic gates, flip-flops, etc.) are physically arranged on the chip's die. This process occurs after floorplanning and pre-placement and is a critical step in turning the logical circuit into a physical layout.
 
 The Goal of Placement
